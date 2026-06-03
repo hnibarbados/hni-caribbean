@@ -1,3 +1,4 @@
+"use client";
 import React, { useState, useMemo } from "react";
 import {
   LayoutDashboard, Users, Building2, MapPin, BarChart3,
